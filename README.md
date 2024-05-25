@@ -72,7 +72,7 @@ chmod +x install.sh
 ```
 
 ```
-./install_docker.sh
+./install.sh
 ```
 
 Open new terminal to use docker without root permission,or use in terminal 1 with root permission.
