@@ -69,9 +69,6 @@ echo "If you still encounter issues, please try logging out and logging back in.
 
 ```
 chmod +x install.sh
-```
-
-```
 ./install.sh
 ```
 
